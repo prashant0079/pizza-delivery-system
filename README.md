@@ -8,6 +8,6 @@ This project is built in Django - A python based web framework
 2. python manage.py runserver
 
 # To enter django administration mode
-  username: testuser
-  password: test123
+* username: testuser
+* password: test123
 
